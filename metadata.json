@@ -1,0 +1,8 @@
+{
+  "name": "GreenScape Uganda",
+  "description": "Custom landscape design, compound designing, paver laying, lawn installation, rock gardens, and indoor/outdoor plants in Kampala, Uganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
